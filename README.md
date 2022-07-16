@@ -48,7 +48,7 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://happylovetkd.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://happylovetkd.tistory.com)\"/></a>&nbsp
-  <a href="https://hyunsang.cf/portfolio"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://hyunsang.cf/portfolio"/></a>&nbsp
+  <a href="https://hyunsang.cf/portfolio"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://hyunsang.cf/portfolio"/></a>&nbsp
   <a href="mailto:haypplovetkd@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=happylovetkd@naver.com"/></a>
 </p>
 <br>
